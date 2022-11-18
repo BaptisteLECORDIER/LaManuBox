@@ -15,9 +15,9 @@ const navbar1Inc = (
       <img src="./assets/img/lamanubox.svg" alt=""></img>
     </div>
     <ul class="navbar__links">
-      <li>
+      {/* <li>
         <a class="txt-md reset-a-style-bg-w" href="index.html">Accueil</a>
-      </li>
+      </li> */}
       <li>
         <a class="txt-md reset-a-style-bg-w" href="estimation.html">Estimation</a>
       </li>
